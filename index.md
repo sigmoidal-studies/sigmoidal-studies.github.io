@@ -39,9 +39,9 @@ Confira todos os repositórios disponíveis:
 
 ## 👥 Como Participar
 
-1. **Solicite acesso:** [Preencha este formulário](https://forms.gle/seulink) para ser convidado(a) à organização.
-2. **Contribua:** Envie sugestões de materiais, resumos, projetos e melhorias via Pull Request.
-3. **Participe das discussões:** Ajude a decidir novos recursos, dividir dúvidas e organizar os materiais.
+Para ser convidado(a) à organização, peça acesso diretamente no nosso Discord ([clique aqui](https://discord.gg/gqCDBvAd)) ou no grupo de WhatsApp dos alunos.
+
+Depois que seu usuário for adicionado, é só começar a colaborar!
 
 ---
 
@@ -55,7 +55,7 @@ Aqui estão links e cursos (gratuitos e pagos) para começar do zero ou tirar d�
 - [Documentação oficial GitHub (em português)](https://docs.github.com/pt/get-started/git-basics) — Guia básico para iniciantes.
 - [Livro Pro Git (em português)](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git) — Explicação detalhada e profunda do Git.
 - [Guia Rápido do Git (em português)](https://rogerdudler.github.io/git-guide/index.pt_BR.html) — Recomendo para quem nunca teve contato com Git.
-- [Tutoriais da Atlassian (em inglës)](https://www.atlassian.com/git/tutorials) — Visual e didático.
+- [Tutoriais da Atlassian (em inglês)](https://www.atlassian.com/git/tutorials) — Visual e didático.
 
 ### 🎥 Cursos e Vídeos
 
@@ -63,7 +63,7 @@ Aqui estão links e cursos (gratuitos e pagos) para começar do zero ou tirar d�
 - [GIT: Minicurso para Você Sair do Zero! (Aprenda em 45 Minutos) (Código Fonte TV)](https://www.youtube.com/watch?v=ts-H3W1uLMM) — Gratuito, direto ao ponto.
 - [Curso Git e GitHub Ninja (Udemy)](https://www.udemy.com/course/git-e-github-ninja/) — Pago.
 
-Se precisar de ajuda com o primeiro acesso ou comandos básicos, pergunte no grupo! 😉
+Se precisar de ajuda com o primeiro acesso ou comandos básicos, pergunte no grupo do Discord ou WhatsApp! 😉
 
 ---
 
@@ -78,7 +78,7 @@ Se precisar de ajuda com o primeiro acesso ou comandos básicos, pergunte no gru
 ## ❓ Perguntas Frequentes
 
 **Nunca usei o GitHub, é igual ao Google Drive?**  
-> Não! O GitHub é focado em colaboração e organização de arquivos, mostrando histórico de edições, facilitando contribuições de vários alunos e servindo como um hub centralizado, não só para códigos, mas também para PDFs, anotações, listas, etc. Se precisar de ajuda, pergunte no grupo!
+> Não! O GitHub é focado em colaboração e organização de arquivos, mostrando histórico de edições, facilitando contribuições de vários alunos e servindo como um hub centralizado, não só para códigos, mas também para PDFs, anotações, listas, etc. Se precisar de ajuda, pergunte no grupo do Discord ou WhatsApp!
 
 ---
 
