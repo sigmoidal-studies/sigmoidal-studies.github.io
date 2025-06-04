@@ -11,6 +11,13 @@ Construir uma rede ativa de apoio, organização de materiais e troca de experi�
 
 ---
 
+## 📢 Entre no nosso Discord!
+
+Participe do nosso canal no Discord para tirar dúvidas, conversar com outros alunos e se integrar à comunidade:  
+👉 [https://discord.gg/gqCDBvAd](https://discord.gg/gqCDBvAd)
+
+---
+
 ## 📚 Bibliografia Oficial
 
 Acesse a lista completa de livros e materiais utilizados na pós:  
@@ -38,6 +45,28 @@ Confira todos os repositórios disponíveis:
 
 ---
 
+## 🛠️ Como aprender Git e GitHub
+
+Se você nunca usou Git ou GitHub, não se preocupe!  
+Aqui estão links e cursos (gratuitos e pagos) para começar do zero ou tirar dúvidas rápidas:
+
+### 📚 Documentação e Guias Gratuitos
+
+- [Documentação oficial GitHub (em português)](https://docs.github.com/pt/get-started/git-basics) — Guia básico para iniciantes.
+- [Livro Pro Git (em português)](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git) — Explicação detalhada e profunda do Git.
+- [Guia Rápido do Git (em português)](https://rogerdudler.github.io/git-guide/index.pt_BR.html) — Recomendo para quem nunca teve contato com Git.
+- [Tutoriais da Atlassian (em inglës)](https://www.atlassian.com/git/tutorials) — Visual e didático.
+
+### 🎥 Cursos e Vídeos
+
+- [Curso gratuito Git e Github #1 - Introdução - O que é git? (Youtube - Tiago Matos)](https://www.youtube.com/watch?v=2c7yWlpWDJM&list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU) — Gratuito, excelente para iniciantes.
+- [GIT: Minicurso para Você Sair do Zero! (Aprenda em 45 Minutos) (Código Fonte TV)](https://www.youtube.com/watch?v=ts-H3W1uLMM) — Gratuito, direto ao ponto.
+- [Curso Git e GitHub Ninja (Udemy)](https://www.udemy.com/course/git-e-github-ninja/) — Pago.
+
+Se precisar de ajuda com o primeiro acesso ou comandos básicos, pergunte no grupo! 😉
+
+---
+
 ## 🛡️ Código de Conduta
 
 - Respeite direitos autorais: materiais protegidos só em repositórios privados, não compartilhe fora do grupo.
@@ -62,4 +91,4 @@ Materiais protegidos por direitos autorais incluídos em repositórios privados 
 
 ---
 
-> Simoidal Studies 2025
+> Sigmoidal Studies 2025
